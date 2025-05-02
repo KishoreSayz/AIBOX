@@ -1,5 +1,5 @@
 # LLMKit
-A Opensource interface and gateway for implementing LLMS into the code 
+A Opensource interface and gateway for implementing LLMS into the code. 
 A modern, production-ready Python library for LLM interactions.
 
 ## Features
